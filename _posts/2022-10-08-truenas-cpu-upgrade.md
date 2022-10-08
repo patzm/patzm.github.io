@@ -14,7 +14,8 @@ I had never installed something on a server-grade motherboard before.
 And now, I have to say, it was _so_ much easier!
 The fact that I didn't have to take out the motherboard to install a cooler back-plate but could simply screw it into the already existing counterpart on the board was genius 💡.
 I marked those screws with red circles ⭕️ in the next picture, which also shows the CPU already installed.
-![cpu-only]({{ site.baseurl }}/images/2022-10-08/cpu-only.jpg){:width="70%"}
+
+![only-cpu]({{ site.baseurl }}/images/2022-10-08/only-cpu.jpg){:width="70%"}
 
 After the raiser screws had been installed, mounting the rest was super easy as well.
 In hind-sight, it is actually quite beneficial to have a bigger CPU cooler now.
@@ -33,8 +34,8 @@ Sweet 😋.
 The system booted smoothly after the installation, everything worked ✅ out of the box 📤.
 The TrueNas dashboard shows twice the cores (2x 8) and twice the threads (2x 16).
 
-![dashboard-cpu]({{ site.baseurl }}/images/2022-10-08/dashboard-cpu.jpg){:width="40%"}
+![dashboard-cpu]({{ site.baseurl }}/images/2022-10-08/dashboard-cpu.png){:width="40%"}
 
 Also the 2nd half of the RAM 🐏 kit is not accessible and the system has a total of 64 GB ECC DDR4-RAM available ☺️.
 
-![dashboard-ram]({{ site.baseurl }}/images/2022-10-08/dashboard-ram.jpg){:width="40%"}
+![dashboard-ram]({{ site.baseurl }}/images/2022-10-08/dashboard-ram.png){:width="40%"}
