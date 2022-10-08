@@ -45,7 +45,8 @@ So here is a quick step-by-step guide to configure this:
    I chose to only store they server and port in my configuration file:
    <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fpatzm%2Fdockerfiles%2Fblob%2F2384acff2c443e3ba312857ff35159d972ac2da9%2Fmailu%2F.env%23L73-L74&style=monokai-sublime&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
    The username (`RELAYUSER`) and password (`RELAYPASSWORD`) are stored in another environment variable file I called `secrets.env`, which is _not_ added in `git`.
-   I mount it then [here](https://github.com/patzm/dockerfiles/blob/2384acff2c443e3ba312857ff35159d972ac2da9/mailu/docker-compose.yml#L93).
+   I mount it then here:
+   <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fpatzm%2Fdockerfiles%2Fblob%2F2384acff2c443e3ba312857ff35159d972ac2da9%2Fmailu%2Fdocker-compose.yml%23L91-L93&style=monokai-sublime&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 6. Rebuild the service with `docker-compose up -d`.
    Done ✅.
 
