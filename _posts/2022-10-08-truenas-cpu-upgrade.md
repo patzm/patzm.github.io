@@ -34,8 +34,8 @@ Sweet 😋.
 The system booted smoothly after the installation, everything worked ✅ out of the box 📤.
 The TrueNas dashboard shows twice the cores (2x 8) and twice the threads (2x 16).
 
-![dashboard-cpu]({{ site.baseurl }}/images/2022-10-08/dashboard-cpu.png){:width="40%"}
+![dashboard-cpu]({{ site.baseurl }}/images/2022-10-08/dashboard-cpu.png){:width="70%"}
 
 Also the 2nd half of the RAM 🐏 kit is not accessible and the system has a total of 64 GB ECC DDR4-RAM available ☺️.
 
-![dashboard-ram]({{ site.baseurl }}/images/2022-10-08/dashboard-ram.png){:width="40%"}
+![dashboard-ram]({{ site.baseurl }}/images/2022-10-08/dashboard-ram.png){:width="70%"}
