@@ -25,7 +25,7 @@ So at 24 ct/kWh (yes, Ökostrom) that is roughly 250 💶 per year.
 
 ### On ports
 Like I said earlier, configuring the ports wasn't trivial.
-I first started out by simply exposing the default BOINC port `31416` through the reverse proxy Traefik at https://boinc.patz.app.
+I first started out by simply exposing the default BOINC port `31416` through the reverse proxy Traefik at `https://boinc.patz.app`.
 However, that doesn't work and this isn't how it is intended.
 It seems, that the traffic shall not be encrypted and thus not be resolved by the reverse proxy.
 I now opened the ports on my router and pipe them to the container.
