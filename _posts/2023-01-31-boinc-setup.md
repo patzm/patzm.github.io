@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BOINC: donating compute
+title: "BOINC: donating compute"
 ---
 
 Ever since, but especially since my [RAM and CPU upgrade]({% post_url 2022-10-02-truenas-ram-upgrade %}), my server sits idle 💤 pretty much all the time.
