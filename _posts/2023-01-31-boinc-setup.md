@@ -20,6 +20,8 @@ The Docker 🐳 stack is published in my `dockerfiles` repo [here](https://githu
 And now: I have 100% CPU utilization 🥵😅🎉:
 ![cpu-utilization]({{ site.baseurl }}/images/2023-01-31/cpu-utilization.png)
 
+Oh, and this also means that my power consumption went from ~120 W to 240W ⚡🔋.
+So at 24 ct/kWh (yes, Ökostrom) that is roughly 250 💶 per year.
 
 ### On ports
 Like I said earlier, configuring the ports wasn't trivial.
