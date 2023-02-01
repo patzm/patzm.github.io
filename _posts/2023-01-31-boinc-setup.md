@@ -16,6 +16,8 @@ Setting it up through `docker-compose` wasn't 100% trivial, especially because o
 And probably because I wanted some parts of this to go through my reverse proxy.
 But eventually, I got it to work.
 The Docker 🐳 stack is published in my `dockerfiles` repo [here](https://github.com/patzm/dockerfiles/tree/master/boinc).
+The stack is based on the official [`boinc` client](https://hub.docker.com/r/boinc/client) Docker 🐳 image.
+
 
 And now: I have 100% CPU utilization 🥵😅🎉:
 ![cpu-utilization]({{ site.baseurl }}/images/2023-01-31/cpu-utilization.png)
