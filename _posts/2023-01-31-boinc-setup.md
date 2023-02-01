@@ -36,8 +36,6 @@ I now opened the ports on my router and pipe them to the container.
 You can see this in the configuration here:
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fpatzm%2Fdockerfiles%2Fblob%2Faa9931429372c16b70d042245ef8061fc1244691%2Fboinc%2Fdocker-compose.yml%23L10-L12&style=default&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 
-~And then open the ports on the Router. This allows me now to configure workloads from anywhere.~
-
 _**Update:**_
 I closed the ports on the router again, because that's really not required.
 And every *unnecessarily* open port is an unnecessary security risk 🤷‍♂️.
