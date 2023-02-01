@@ -11,7 +11,7 @@ The Vodafone Foundation has brought out the [DreamLab](https://www.vodafone.com/
 It essentially computes exiting stuff like COVID research 🧪 on your smartphones (yes! It is a computer) CPU and GPU (and NNU?).
 
 So I sought to find a similar thing, but Docker 🐳 based and for `x86` architectures.
-And I found it in BOINC 🎉.
+And I found it in [BOINC](https://boinc.berkeley.edu/) 🎉.
 Setting it up through `docker-compose` wasn't 100% trivial, especially because of the ports and rather poor documentation on that end.
 And probably because I wanted some parts of this to go through my reverse proxy.
 But eventually, I got it to work.
@@ -19,6 +19,8 @@ The Docker 🐳 stack is published in my `dockerfiles` repo [here](https://githu
 
 And now: I have 100% CPU utilization 🥵😅🎉:
 ![cpu-utilization]({{ site.baseurl }}/images/2023-01-31/cpu-utilization.png)
+Right now, the only workload I could find was from the project [World Community Grid](https://www.worldcommunitygrid.org/), an early initiative by IBM Corporate Social Responsibility.
+I would also like to contribute to (i.e. compute for 😏) [Rosetta@home](https://boinc.bakerlab.org/), but there were no CPU tasks ready at the time of setup.
 
 Oh, and this also means that my power consumption went from ~120 W to 240W ⚡🔋.
 So at 26 ct/kWh (yes, Ökostrom) that is roughly 250 💶 per year 🙈.
