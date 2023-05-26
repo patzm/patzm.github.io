@@ -6,7 +6,7 @@ title: "Crawling contact pictures 👤"
 Humans are visual 👀 beings.
 And me personally maybe even more than the average (I love emoji 🙈).
 So naturally, working with a contacts / address book 📔 like this:
-![contacts-no-pictures]({{ site.baseurl }}/images/2023-05-25/contacts-no-pictures.png)
+![contacts-no-pictures]({{ site.baseurl }}/images/2023-05-25/contacts-no-pictures.png){:height="250px"}
 
 isn't very appealing to me.
 Now of course, I can go about an over time manually add pictures.
