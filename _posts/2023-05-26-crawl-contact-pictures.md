@@ -24,3 +24,6 @@ Also, open source collaborators are always welcome 🤗.
 With this tool, I managed to find profile pictures for roughly **50%** of my contacts 🚀.
 And I can re-run it whenever I want.
 No API rate limitations.
+
+Now, my address book looks much more colorful 🧡💙💚💜❤️
+![contacts-more-pictures]({{ site.baseurl }}/images/2023-05-25/contacts-more-pictures.png){:height="250px"}
